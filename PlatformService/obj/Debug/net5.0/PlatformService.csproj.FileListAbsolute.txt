@@ -68,4 +68,4 @@ D:\repo\Microservice\PlatformService\obj\Debug\net5.0\PlatformService.dll
 D:\repo\Microservice\PlatformService\obj\Debug\net5.0\ref\PlatformService.dll
 D:\repo\Microservice\PlatformService\obj\Debug\net5.0\PlatformService.pdb
 D:\repo\Microservice\PlatformService\obj\Debug\net5.0\PlatformService.genruntimeconfig.cache
-D:\repo\Microservice\PlatformService\bin\Debug\net5.0\appsettings.Production.json
+D:\repo\Microservice\PlatformService\bin\Debug\net5.0\appsettings.json
